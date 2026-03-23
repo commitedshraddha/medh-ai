@@ -473,6 +473,6 @@ For questions, suggestions, or collaboration:
 
 ---
 
-**Made with ❤️ by the MedhAI+ Team**
+**Developed by Shraddha Tiwari**
 
 *Empowering learners through AI-driven personalization*
